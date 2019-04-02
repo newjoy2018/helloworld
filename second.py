@@ -7,3 +7,5 @@
 
 # simutanously change this file in origin and master
 # this file changed in master
+
+# Now solved the conflicts by delete the local file and change the master file, then pull
