@@ -3,3 +3,10 @@
 // Different changes in Master branch && Now we make some conflicts and then to fix it
 
 // Finally, Conflicts have benn fixed and two branches have been merged. Finished!
+
+// Summary:
+// 1. git checkout -b [new branch name]		---build a new branch and switch to this branch
+// 2. touch [file name] && gedit [file name]	---add a new file and edit it in the new branch
+// 3. git checkout master && touch [same name] && gedit [same name]	---switch to master-branch and add a same-name file
+// 4. both branch --> git add && git commit
+// 5. git merge iss01				---in master-branch, merge, fix conflicts
