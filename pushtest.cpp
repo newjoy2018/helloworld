@@ -10,3 +10,6 @@
 // This is the first time that directly change a file in Github
 // Try to see what differences between master and origin
 // At the same time, pull
+
+// 2.time change the file in local, origin
+// see what differences
